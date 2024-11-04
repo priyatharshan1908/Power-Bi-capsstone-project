@@ -1,4 +1,4 @@
-# Power-Bi-capsstone-project
+# Power Bi capstone Project
 
 ### Power BI capstone project
 
